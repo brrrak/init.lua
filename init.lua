@@ -1,0 +1,2 @@
+require("burak")
+print("hello")
